@@ -445,6 +445,9 @@ p {
 #sources a:hover {
     color: #fff;
 }
+#sources li {
+    list-style-type: none;
+}
 .slide p {
     opacity: 0;
 }
@@ -467,3 +470,4 @@ p {
     font-weight: 400;
     font-style: normal;
 }
+
